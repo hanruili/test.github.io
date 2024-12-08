@@ -1,0 +1,16 @@
+---
+title: "some"
+author: "Hanrui Li"
+date: "2024-12-08"
+output: 
+  html_document:
+    code_folding: hide
+---
+
+```{r}
+x = 1
+y = 2
+z = 3
+x+y + z
+```
+

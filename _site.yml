@@ -9,6 +9,8 @@ navbar:
       href: problem2_plots.html
     - text: "Dashboard"
       href: problem2_dashboard.html
+    - text: "something"
+      href: some.html
     - icon: fa-envelope fa-lg
       href: mailto:<hl3859@cumc.columbia.com>
     - icon: fa-github fa-lg
